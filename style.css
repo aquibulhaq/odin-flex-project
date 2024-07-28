@@ -67,6 +67,10 @@ ul {
   color: #E5E7EB;
 }
 
+.logo {
+  font-size: 24px;
+}
+
 .links {
   display: flex;
   align-items: center;
