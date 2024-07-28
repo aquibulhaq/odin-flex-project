@@ -59,3 +59,8 @@ ul {
   justify-content: space-between;
   align-items: center;
 }
+
+.links {
+  display: flex;
+  align-items: center;
+}
