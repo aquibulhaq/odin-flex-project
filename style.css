@@ -67,10 +67,14 @@ ul {
   align-items: center;
 }
 
-.header a {
+.header a,
+.hero-secondary-text {
   color: #E5E7EB;
-  text-decoration: none;
   font-size: 18px;
+}
+
+.header a {
+  text-decoration: none;
 }
 
 .logo {
