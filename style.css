@@ -56,9 +56,13 @@ ul {
   list-style-type: none;
 }
 
-.container {
+.container,
+.footer {
   background-color: #1F2937;
   color: #F9FAF8;
+}
+
+.container {
   padding: 0 2in;
 }
 
