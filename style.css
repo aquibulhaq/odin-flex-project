@@ -215,3 +215,7 @@ button {
 .call-to-action-body button {
   border: 3px solid #F9FAF8;
 }
+
+.footer {
+  padding: 24px 0;
+}
