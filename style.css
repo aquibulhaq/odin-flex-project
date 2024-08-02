@@ -68,7 +68,8 @@ ul {
 }
 
 .header a,
-.hero-secondary-text {
+.hero-secondary-text,
+button {
   color: #E5E7EB;
   font-size: 18px;
 }
@@ -94,7 +95,6 @@ ul {
 }
 
 button {
-  color: #F9FAF8;
   background-color: #3882F6;
   border: none;
 }
