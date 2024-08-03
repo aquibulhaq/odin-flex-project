@@ -108,6 +108,10 @@ button {
   align-items: center;
 }
 
+.hero-text-container {
+  padding-right: 48px;
+}
+
 .hero-main-text {
   font-size: 48px;
   font-weight: 800;
