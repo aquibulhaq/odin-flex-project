@@ -137,6 +137,10 @@ button {
   text-align: center;
 }
 
+.item {
+  width: 200px;
+}
+
 .item-image {
   height: 200px;
   width: 200px;
