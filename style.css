@@ -22,6 +22,7 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   font-family: Roboto, Arial, sans-serif;
+  font-size: 18px;
 }
 
 img,
@@ -71,7 +72,6 @@ ul {
 .hero-secondary-text,
 button {
   color: #E5E7EB;
-  font-size: 18px;
 }
 
 .header a {
