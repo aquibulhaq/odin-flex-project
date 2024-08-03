@@ -92,6 +92,7 @@ button {
 }
 
 .hero {
+  padding: 1in 0;
   display: flex;
 }
 
