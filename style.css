@@ -150,6 +150,10 @@ button {
   width: 200px;
 }
 
+.item-text {
+  color: rgb(75, 85, 99);
+}
+
 .item-image {
   height: 200px;
   width: 200px;
