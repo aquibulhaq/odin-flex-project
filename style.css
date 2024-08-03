@@ -69,6 +69,7 @@ ul {
 }
 
 .header a,
+.hero-image,
 .hero-secondary-text,
 button {
   color: #E5E7EB;
@@ -96,6 +97,10 @@ button {
 .hero-text,
 .hero-image {
   flex: 1;
+}
+
+.hero-image {
+  background-color: rgb(109, 116, 125);
 }
 
 .hero-main-text {
