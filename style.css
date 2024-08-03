@@ -101,6 +101,9 @@ button {
 
 .hero-image {
   background-color: rgb(109, 116, 125);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .hero-main-text {
