@@ -129,3 +129,9 @@ button {
   font-weight: bold;
   padding: 4px 24px;
 }
+
+.info-title {
+  font-size: 36px;
+  font-weight: 800;
+  color: #1F2937;
+}
