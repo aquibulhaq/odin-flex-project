@@ -59,10 +59,10 @@ ul {
 .container {
   background-color: #1F2937;
   color: #F9FAF8;
+  padding: 18px 1in;
 }
 
 .header {
-  padding: 18px 1in;
   display: flex;
   justify-content: space-between;
   align-items: center;
