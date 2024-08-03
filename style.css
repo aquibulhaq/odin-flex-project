@@ -137,6 +137,11 @@ button {
   text-align: center;
 }
 
+.item-container {
+  display: flex;
+  justify-content: center;
+}
+
 .item {
   width: 200px;
 }
