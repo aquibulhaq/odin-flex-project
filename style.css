@@ -164,6 +164,10 @@ button {
   margin-bottom: 8px;
 }
 
+.quote {
+  background-color: #E5E7EB;
+}
+
 .quote-text {
   color: #1F2937;
   font-size: 36px;
