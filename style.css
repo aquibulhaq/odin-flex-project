@@ -71,7 +71,8 @@ ul {
 
 .header a,
 .hero-image,
-.hero-secondary-text {
+.hero-secondary-text,
+.call-to-action-subtitle {
   color: #E5E7EB;
 }
 
