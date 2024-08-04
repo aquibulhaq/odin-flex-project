@@ -193,6 +193,11 @@ button {
   color: #F9FAF8;
 }
 
+.call-to-action-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
 .call-to-action-body button {
   border: 3px solid #F9FAF8;
 }
