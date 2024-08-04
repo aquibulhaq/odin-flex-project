@@ -189,6 +189,10 @@ button {
   font-weight: 700;
 }
 
+.call-to-action {
+  padding: 1in 2in;
+}
+
 .call-to-action-body {
   background-color: #3882F6;
   color: #F9FAF8;
