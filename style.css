@@ -192,3 +192,7 @@ button {
   background-color: #3882F6;
   color: #F9FAF8;
 }
+
+.call-to-action-body button {
+  border: 3px solid #F9FAF8;
+}
