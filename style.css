@@ -197,6 +197,9 @@ button {
   background-color: #3882F6;
   color: #F9FAF8;
   padding: 48px 96px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .call-to-action-title {
