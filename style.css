@@ -196,6 +196,7 @@ button {
 .call-to-action-body {
   background-color: #3882F6;
   color: #F9FAF8;
+  padding: 48px 96px;
 }
 
 .call-to-action-title {
